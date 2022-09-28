@@ -1,0 +1,3 @@
+# singlecelldeteec
+
+Study of nervous systems via the connectome, the map of connectivities of all neurons in that system, is a challenging problem in neuroscience. Towards this goal, neurobiologists are acquiring large electron microscopy datasets. However, the shear volume of these datasets renders manual analysis infeasible. Hence, automated image analysis methods are required for reconstructing the connectome from these very large image collections. Segmentation of neurons in these images, an essential step of the reconstruction pipeline, is challenging because of noise, anisotropic shapes and brightness, and the presence of confounding structures.
