@@ -1,5 +1,5 @@
 # The notebooks is self-contained
-# It has very few imports
+# It has very few imports 
 # No external dependencies (only the model weights)
 # No train - inference notebooks
 # We only rely on Pytorch
