@@ -1,5 +1,5 @@
 # CNN Segmentation Models and Microscopy Image Detection for Sole Neural Cell    
-                                       
+                                        
                                  
 Neural cell instance segmentation, which aims at joint detection and segmentation of every neural cell in a microscopic image, is essential to many neuroscience applications. The challenge of this task involves cell adhesion, cell distortion, unclear cell contours, low-contrast cell protrusion structures, and background impurities. Consequently, current instance segmentation methods generally fall short of precision. 
              
